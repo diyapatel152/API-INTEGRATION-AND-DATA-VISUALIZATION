@@ -26,11 +26,12 @@ It is easy to extend this script.  Users can, for instance, add more cities to t
 
 In conclusion, this project provides a useful and hands-on introduction to Python data visualisation and API integration. It teaches how to handle common errors, manage API responses, work with real-time data, and present data in an understandable manner. It is perfect for novices who wish to learn important programming concepts while creating something practical.
 
-#OUTPUT:
+##OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/c0dce94a-afb1-4f40-9051-ab7b143e95ce)
 
 
+![Image](https://github.com/user-attachments/assets/33a65082-5635-4bde-a954-ec53b4f9dbc4)
 
 
 
